@@ -1,5 +1,5 @@
 # talkio
-An innovative video calling platform integrated with AI features, designed to revolutionize online communication.
+An innovative video calling platform integrated with AI features.
 
 ### FRONTEND
 ```bash
@@ -7,3 +7,4 @@ An innovative video calling platform integrated with AI features, designed to re
    yarn
    yarn run dev
 ```
+
